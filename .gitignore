@@ -1,0 +1,8 @@
+node_modules/
+log.txt
+nohup.out
+*.log
+
+client.json
+settings.json
+token.json
